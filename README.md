@@ -1,6 +1,4 @@
-# oreanet_deploy
-Will deploy 
-- Oreanet NC Joomla
-- Oreanet Geoserver server
-- Oreanet Mysql database
-- Oreanet REST server
+FORMATION DOCKER
+Répertoire de déploiement d'un CMS Joomla avec Docker
+
+2018
